@@ -1,2 +1,0 @@
-# TechDnA
-Kodi repo
